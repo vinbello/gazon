@@ -10,7 +10,6 @@
         <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/" />
     </url>
     <url>
-    <url>
         <loc>https://www.ecopelouse.com/en</loc>
         <lastmod>2024-04-06</lastmod>
         <changefreq>always</changefreq>
@@ -18,6 +17,7 @@
         <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en" />
         <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/" />
     </url>
+    <url>
         <loc>https://www.ecopelouse.com/faq</loc>
         <lastmod>2024-04-06</lastmod>
         <changefreq>always</changefreq>
@@ -25,7 +25,7 @@
         <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/faq" />
         <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/faq" />
     </url>
-    </url>
+    <url>
         <loc>https://www.ecopelouse.com/en/faq</loc>
         <lastmod>2024-04-06</lastmod>
         <changefreq>always</changefreq>
