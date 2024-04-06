@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /merci
+Disallow: /en/thank-you
+Sitemap: https://www.ecopelouse.com/sitemap.xml
