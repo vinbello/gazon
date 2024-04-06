@@ -7,13 +7,31 @@
         <changefreq>always</changefreq>
         <priority>1</priority>
         <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en" />
+        <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/" />
     </url>
     <url>
+    <url>
+        <loc>https://www.ecopelouse.com/en</loc>
+        <lastmod>2024-04-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1</priority>
+        <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en" />
+        <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/" />
+    </url>
         <loc>https://www.ecopelouse.com/faq</loc>
         <lastmod>2024-04-06</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
         <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/faq" />
+        <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/faq" />
+    </url>
+    </url>
+        <loc>https://www.ecopelouse.com/en/faq</loc>
+        <lastmod>2024-04-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/faq" />
+        <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/faq" />
     </url>
     <url>
         <loc>https://www.ecopelouse.com/a-propos</loc>
@@ -21,5 +39,14 @@
         <changefreq>always</changefreq>
         <priority>0.8</priority>
         <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/about" />
+        <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/a-propos" />
+    </url>
+    <url>
+        <loc>https://www.ecopelouse.com/en/about</loc>
+        <lastmod>2024-04-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/about" />
+        <xhtml:link rel='alternate' hreflang='fr' href="https://www.ecopelouse.com/a-propos" />
     </url>
 </urlset>
