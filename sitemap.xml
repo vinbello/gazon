@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://www.ecopelouse.com</loc>
+        <lastmod>2024-04-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1</priority>
+        <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en" />
+    </url>
+    <url>
+        <loc>https://www.ecopelouse.com/faq</loc>
+        <lastmod>2024-04-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/faq" />
+    </url>
+    <url>
+        <loc>https://www.ecopelouse.com/a-propos</loc>
+        <lastmod>2024-04-06</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel='alternate' hreflang='en' href="https://www.ecopelouse.com/en/about" />
+    </url>
+</urlset>
